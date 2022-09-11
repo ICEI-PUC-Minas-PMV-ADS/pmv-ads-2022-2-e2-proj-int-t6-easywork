@@ -1,4 +1,4 @@
-# EASYWORK - Portal de Procura de Profissionais da Área da Construção Civil
+# EASYWORK 
 
 `ADS - Análise e Desenvolvimento de Sistemas`
 
@@ -6,18 +6,19 @@
 
 `2 Semestre`
 
-A aplicação tem o objetivo de indicar um profissional especializado da área da Contrução Civil para moradores da cidade de São Paulo. E assim, a diminuição de imprevistos, insatisfações e retrabalho na hora de contratar um serviço residencial.
+A aplicação tem o objetivo de direcionar profissionais especializados da área da Contrução Civil para moradores da cidade de São Paulo. E assim, ter a diminuição de imprevistos, insatisfações e retrabalho na hora de contratar um serviço residencial.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Carolina Mendes
+* Anderson Marques
+* Bruno Lustosa
+* Nielsen Silva Paulo
+* Giovanna Dantas Almeida da Silva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon De Alencar
 
 ## Instruções de utilização
 
