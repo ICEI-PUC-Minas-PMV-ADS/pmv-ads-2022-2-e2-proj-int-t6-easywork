@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO (TESTE)
+# EASYWORK - Portal de Procura de Profissionais da Área da Construção Civil
 
-`CURSO`
+`ADS - Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2 Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A aplicação tem o objetivo de indicar um profissional especializado da área da Contrução Civil para moradores da cidade de São Paulo. E assim, a diminuição de imprevistos, insatisfações e retrabalho na hora de contratar um serviço residencial.
 
 ## Integrantes
 
