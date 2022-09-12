@@ -4,8 +4,11 @@ Todo mundo, em algum momento da vida, já passou ou vai passar por obras ou pequ
 
 ## Problema e Proposta de Solução
 Foi pensando no problema exposto anteriormente que trabalhamos nessa plataforma, do qual auxilia o usuário do início ao fim, da sua ideia, à busca pelo profissional, da execução do serviço à entrega do planejado, sem grandes contratações, projetos, e mais burocracias, sem dor de cabeça. Você imagina e o nosso site te guia para que a execução seja a mais tranquila possível.
+
 Com isso, temos uma missão de oferecer um melhor canal de comunicação entre o usuário e o prestador de serviços, diminuindo os stress causados na hora da busca destes profissionais qualificados. E com o valor de levar tecnologia e facilidade para uma área muito mal explorada tecnologicamente, sendo de primeiro momento levar esta solução para uma grande metrópole, como será explicado a seguir.
+
 Atualmente existe uma grande dificuldade em fazer desde pequenos reparos até grandes reformas em moradias nas grandes metrópoles. Um dos motivos é a dificuldade em encontrar bons profissionais da área da construção.  Na cidade de São Paulo, por exemplo, constitui-se de aproximadamente 1,5 milhão de apartamentos, com isso observa-se um grande número de possíveis clientes em busca dos profissionais da área da construção. (LELLO, 2016)
+
 Desta forma, estabeleceu-se como público-alvo desta solução todas as pessoas que tenham dificuldade em encontrar profissionais qualificados para manutenção e reformas em geral de casas e apartamentos da cidade de São Paulo.
 
 
