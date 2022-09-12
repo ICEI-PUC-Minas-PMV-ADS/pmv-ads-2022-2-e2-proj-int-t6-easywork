@@ -47,7 +47,7 @@ Como já discutido anteriormente, na cidade de São Paulo, por exemplo, constitu
 
 ## Público-Alvo
 
-Como público-alvo desta solução temos todas as pessoas que tenham dificuldade em encontrar profissionais qualificados para manutenção e reformas em geral de casas e apartamentos da cidade de São Paulo. Para o perfil, podemos citar pessoas com acesso a internet, e com condições financeiras da classe C pelo menos.
+Como público-alvo desta solução temos todas as pessoas que tenham dificuldade em encontrar profissionais qualificados para manutenção e reformas em geral de casas e apartamentos da cidade de São Paulo. Para o perfil, podemos citar pessoas com acesso a internet, e com condições financeiras minimas para contratação do serviço.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
