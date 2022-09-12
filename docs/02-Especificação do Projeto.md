@@ -66,14 +66,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 
-|Eu como …  [PERSONA]    | … quero/desejo … 
-[O QUE]
-  | … para ....
-[POR QUE]
- |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-easywork/docs/img/historiadeusuario.PNG
 
 
 > **Links Úteis**:
