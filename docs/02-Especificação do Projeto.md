@@ -2,13 +2,50 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Consolidou-se a definição do problema e os pontos mais relevantes a serem tratados neste projeto por meio da participação dos usuários. Com isso, foi possível realizar a imersão pelos membros da equipe a partir da observação dos usuários e por meio de entrevistas. Temos a seguir os detalhes das personas e histórias de usuários levantados nesse estudo. 
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir:
+
+ Solange Nogueira
+	Idade 53
+Ocupação: Odontologista, atende em clinicas da grande São Paulo.	
+Aplicativos:
+•	Instagram
+
+•	Facebook
+
+•	Whatsapp
+
+Motivações:
+
+•	Proporcionar a si própria e a família um lar agradável
+
+•	necessidade por problema hidráulico
+
+•	Conforto
+
+•	Realização de um sonho	
+
+Frustrações:
+
+•	Profissionais sem comprometimento.
+
+•	Atrasos na entrega da obra.
+
+•	Furto.
+
+•	Móveis danificados.
+
+•	Problemas com o padrão de energia, causado pelos profissionais.
+
+•	Dificuldade na realização do orçamento.	
+
+Hobbies, História:
+
+•	Solange é uma mulher comunicativa e alegre. Seu maior prazer é se dedicar ao trabalho e aos netos.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
