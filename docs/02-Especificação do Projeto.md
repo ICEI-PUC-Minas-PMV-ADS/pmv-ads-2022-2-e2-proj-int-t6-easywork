@@ -7,26 +7,6 @@ Consolidou-se a definição do problema e os pontos mais relevantes a serem trat
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir:
-
-
-
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
-## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
 Solange Nogueira Idade 53
 Ocupação: Odontologista, atende em clinicas da grande São Paulo.	Aplicativos:
 •	Instagram
@@ -48,7 +28,53 @@ Hobbies, História
 •	Solange é uma mulher comunicativa e alegre. Seu maior prazer é se dedicar ao trabalho e aos netos.
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+
+ Alvaro Almeida	Idade: 47
+Ocupação: Corretor de imóveis, possui seu próprio escritório para atendimento aos clientes.	Aplicativos:
+•	Facebook
+•	Linkedin
+•	Aplicativos de bancoS.
+•	Tik tok
+•	Email
+•	Instagram
+•	Whatsapp
+Motivações
+•	Melhor qualidade de vida para seus pais.
+•	Valorização do Imóvel.
+•	Presentear os pais com a reforma.
+	Frustrações
+•	Atrasos na entrega da obra.
+•	Necessidade de procurar novos profissionais para concluir a obra.
+•	Gastos acima do Planejado.	
+Hobbies, História
+•	Alvaro é apaixonado pela sua profissão,dedicado aos filhos e ao trabalho. Nas horas vagas ele adora cantar,tocar violão e aprecia uma boa gastronomia.
+
+
+
+> **Links Úteis**:
+> - [Rock Content](https://rockcontent.com/blog/personas/)
+> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
+> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
+> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
+> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+>
+Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
+## Histórias de Usuários
+
+Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
+
+|Eu como …  [PERSONA]    | … quero/desejo … 
+[O QUE]
+  | … para ....
+[POR QUE]
+ |
+|------|-----------------------------------------|----|
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
