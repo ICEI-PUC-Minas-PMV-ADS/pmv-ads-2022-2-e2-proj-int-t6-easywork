@@ -23,8 +23,11 @@ O objetivo geral deste trabalho é o desenvolvimento de uma plataforma de servi�
 
 Para os Objetivos Específico temos:
 •	Criar um canal de comunicação entre o usuário e o prestador de serviços, otimizando tempo na hora da escolha do profissional;
+
 •	Trazer consciência aos usuários da plataforma dos profissionais especializados que eles devem contratar a partir dos serviços que buscam;
+
 •	Ajudar ao usuário da plataforma a ter uma visão de quais profissionais qualificados estão disponíveis na região do qual ele mora;
+
 •	Por meio de páginas informativas dentro da plataforma, é possível que os usuários da plataforma e profissionais da construção civil possam tirar dúvidas recorrentes ligadas as obras e contratos.
 
  
