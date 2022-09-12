@@ -66,7 +66,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-easywork/docs/img/historiadeusuario.PNG
+[[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-easywork/docs/img/historiadeusuario.PNG]]
 
 
 > **Links Úteis**:
