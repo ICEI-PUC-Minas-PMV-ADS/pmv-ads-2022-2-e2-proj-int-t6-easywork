@@ -11,7 +11,8 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 - Segurança e EPI
 - Leis Trabalhistas
 - Profissionais
-- Cursos e Materiais Entrar
+- Cursos e Materiais 
+- Entrar
 
 ![Diagrama de Fluxo - Solução EasyWork](img/Etapa-2-Diagrama-de-Fluxo.jpg)
 
