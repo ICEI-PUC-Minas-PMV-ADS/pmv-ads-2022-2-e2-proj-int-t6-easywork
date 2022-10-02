@@ -15,6 +15,8 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
 
+![Diagrama de Fluxo - Solução EasyWork](img/Etapa 2-Diagrama de Fluxo.jpg)
+
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
 > **Links Úteis**:
