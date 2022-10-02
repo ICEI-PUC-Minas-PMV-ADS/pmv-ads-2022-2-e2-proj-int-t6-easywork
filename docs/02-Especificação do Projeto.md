@@ -49,6 +49,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 2 – Identificar Casos de Uso:
 
+
 Para Clientes pessoa Física ou Jurídica:
 
 •	Por meio da ferramenta do site é possível Filtrar e Buscar os profissionais das regiões da grande São Paulo;
@@ -56,6 +57,7 @@ Para Clientes pessoa Física ou Jurídica:
 •	Podem acessar os cursos e materiais indicados pela plataforma;
 
 •	Visualizar todos os profissionais prestadores de serviço.
+
 
 Para Profissionais da Construção Civil:
 •	Deverá realizar o cadastro para ter acesso ao login e as funcionalidades da página;
