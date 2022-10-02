@@ -47,6 +47,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 •	Cliente pode ser pessoa Física ou Jurídica;
 •	Profissionais da Construção Civil.
 
+
 2 – Identificar Casos de Uso:
 
 
