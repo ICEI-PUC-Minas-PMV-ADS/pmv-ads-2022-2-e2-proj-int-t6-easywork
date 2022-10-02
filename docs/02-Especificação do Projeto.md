@@ -50,6 +50,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 2 – Identificar Casos de Uso:
 
 Para Clientes pessoa Física ou Jurídica:
+
 •	Por meio da ferramenta do site é possível Filtrar e Buscar os profissionais das regiões da grande São Paulo;
 
 •	Podem acessar os cursos e materiais indicados pela plataforma;
