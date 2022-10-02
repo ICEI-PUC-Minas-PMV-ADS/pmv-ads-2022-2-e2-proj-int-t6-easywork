@@ -7,59 +7,11 @@ Consolidou-se a definição do problema e os pontos mais relevantes a serem trat
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir:
-Solange Nogueira Idade 53
-Ocupação: Odontologista, atende em clinicas da grande São Paulo.	Aplicativos:
-•	Instagram
-•	Facebook
-•	Whatsapp
-Motivações
-•	Proporcionar a si própria e a família um lar agradável
-•	necessidade por problema hidráulico
-•	Conforto
-•	Realização de um sonho	
-Frustrações
-•	Profissionais sem comprometimento.
-•	Atrasos na entrega da obra.
-•	Furto.
-•	Móveis danificados.
-•	Problemas com o padrão de energia, causado pelos profissionais.
-•	Dificuldade na realização do orçamento.
-Hobbies, História
-•	Solange é uma mulher comunicativa e alegre. Seu maior prazer é se dedicar ao trabalho e aos netos.
 
+![Persona 1](img/Persona-1.JPG)
 
+![Persona 2](img/Persona-2.JPG)
 
- Alvaro Almeida	Idade: 47
-Ocupação: Corretor de imóveis, possui seu próprio escritório para atendimento aos clientes.	Aplicativos:
-•	Facebook
-•	Linkedin
-•	Aplicativos de bancoS.
-•	Tik tok
-•	Email
-•	Instagram
-•	Whatsapp
-Motivações
-•	Melhor qualidade de vida para seus pais.
-•	Valorização do Imóvel.
-•	Presentear os pais com a reforma.
-	Frustrações
-•	Atrasos na entrega da obra.
-•	Necessidade de procurar novos profissionais para concluir a obra.
-•	Gastos acima do Planejado.	
-Hobbies, História
-•	Alvaro é apaixonado pela sua profissão,dedicado aos filhos e ao trabalho. Nas horas vagas ele adora cantar,tocar violão e aprecia uma boa gastronomia.
-
-
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
