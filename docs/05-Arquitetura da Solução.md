@@ -14,7 +14,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa. Como podemos observar na figura a seguir, temos nosso modelo ER:
 
-Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
+
 
 ![ModeloER](img/Etapa-2-Modelo-ER.jpg)
 
