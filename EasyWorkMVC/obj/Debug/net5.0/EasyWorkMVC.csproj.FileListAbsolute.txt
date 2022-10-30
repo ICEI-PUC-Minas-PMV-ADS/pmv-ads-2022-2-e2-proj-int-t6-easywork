@@ -1,0 +1,761 @@
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\appsettings.Development.json
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\appsettings.json
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.exe
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.deps.json
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.runtimeconfig.json
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.runtimeconfig.dev.json
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ref\EasyWorkMVC.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.pdb
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\mscorlib.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\netstandard.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Console.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Core.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Data.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Memory.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Web.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Windows.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.Views.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.Views.pdb
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.csproj.AssemblyReference.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.AssemblyInfoInputs.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.AssemblyInfo.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.csproj.CoreCompileInputs.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.MvcApplicationPartsAssemblyInfo.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.MvcApplicationPartsAssemblyInfo.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorAssemblyInfo.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorAssemblyInfo.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\scopedcss\bundle\EasyWorkMVC.styles.css
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\staticwebassets\EasyWorkMVC.StaticWebAssets.Manifest.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.TagHelpers.input.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.TagHelpers.output.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorCoreGenerate.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorTargetAssemblyInfo.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorTargetAssemblyInfo.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.Views.pdb
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.csproj.CopyComplete
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\ref\EasyWorkMVC.dll
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.pdb
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.genruntimeconfig.cache
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Seguranca_epi\Index.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Cursos_e_materiais\Index.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Leistrab\Index.cshtml.g.cs
+F:\ETAPA FINAL\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Profissionais\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\appsettings.Development.json
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\appsettings.json
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.exe
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.deps.json
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.runtimeconfig.json
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.runtimeconfig.dev.json
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ref\EasyWorkMVC.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\mscorlib.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\netstandard.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Console.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Core.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Data.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Memory.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Web.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Windows.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.Views.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\EasyWorkMVC.Views.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.csproj.AssemblyReference.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.AssemblyInfoInputs.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.AssemblyInfo.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.csproj.CoreCompileInputs.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.MvcApplicationPartsAssemblyInfo.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.MvcApplicationPartsAssemblyInfo.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorAssemblyInfo.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorAssemblyInfo.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\scopedcss\bundle\EasyWorkMVC.styles.css
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\staticwebassets\EasyWorkMVC.StaticWebAssets.Manifest.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.TagHelpers.input.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.TagHelpers.output.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorCoreGenerate.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Cursos_e_materiais\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Leistrab\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Profissionais\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Seguranca_epi\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorTargetAssemblyInfo.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.RazorTargetAssemblyInfo.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.Views.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.csproj.CopyComplete
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\ref\EasyWorkMVC.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\EasyWorkMVC.genruntimeconfig.cache
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Humanizer.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Contato\Criar.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Contato\Editar.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Contato\ApagarConfirmacao.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Usuario\Criar.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Usuario\ApagarConfirmacao.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Usuario\Editar.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\_LayoutDeslogado.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\Components\Menu\Default.cshtml.g.cs
