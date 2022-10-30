@@ -11,4 +11,3 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 
-![Registro de Testes de Software_page-0001](img/Registro de Testes de Software_page-0001.png)
