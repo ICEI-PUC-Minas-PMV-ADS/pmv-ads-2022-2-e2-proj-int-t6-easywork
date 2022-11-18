@@ -4,8 +4,8 @@ Para o Template Padrão da Aplicação, temos:
 
 Visualização sem responsividade:
 
-![Temp](img/Temp.png)
+![Temp1](img/Temp1.png)
 
 Visualização com responsividade:
 
-![Tempres](img/Tempres.png)
+![Temp2](img/Temp2.png)
