@@ -8,7 +8,7 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
+|RF-001| Cadastrar: Funcionalidade permite o usuário fazer um cadastro. | Views - Usuario - Criar.cshtml/ UsuarioController.cs | 
 |RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
 |RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
 |RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
