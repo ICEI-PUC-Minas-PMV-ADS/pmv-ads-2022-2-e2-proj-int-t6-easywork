@@ -6,16 +6,23 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 
 Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos desenvolvidos.
 
-|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
+|ID    | Descrição do Requisito Funcional  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
 |RF-001| Cadastrar: Funcionalidade permite o usuário fazer um cadastro. | Views - Usuario - Criar.cshtml / UsuarioController.cs | 
 |RF-002| Editar a conta: Funcionalidade permite o usuário editar os dados da sua conta.  | Views - AlterarDados - Index.cshtml / AlterarDadosController.cs |
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
+|RF-003| Excluir a Conta: Funcionalidade permite o usuário excluir a sua conta. | Views - ApagarUsuario - Index.cshtml / ApagarUsuarioController.cs | 
+|RF-004| Efetuar Login: Funcionalidade permite o usuário fazer login para acessar os conteúdos do site. | Views - Login - Index.cshtml / LoginController.cs |
+|RF-005| Redefinir Senha: Funcionalidade envia para o e-mail cadastrado do usuário uma nova senha. | Views - Login - RedefinirSenha.cshtml / LoginController.cs | 
+|RF-006| Alterar Senha: Funcionalidade permite o usuário alterar a sua senha já cadastrada. | Views - AlterarSenha - Index.cshtml / AlterarSenhaController.cs |
+|RF-007| Visualizar Profissionais: Funcionalidade permite os usuários terem acesso aos profissionais indicados. | Views - Profissionais - Index.cshtml / ProfissionaisController.cs | 
+|RF-008| Acessar Cursos e Materiais: Funcionalidade permite os usuários terem acesso a cursos e materiais indicados pelo site. | Views - Cursos_e_Materiais - Index.cshtml / Cursos_e_MateriaisController.cs |
+
+</br>
+</br>
+
+|ID    | Descrição do Requisito Não Funcional  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|----|
+|RF-006| O site deverá criptografar a senha dos usuários. | Helper - Criptografia.cs | 
 
 # Instruções de acesso
 
