@@ -44,14 +44,21 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Diagrama de Casos de Uso
 
 1 - Identificar Atores:
+</br>
+
 •	Cliente pode ser pessoa Física ou Jurídica;
+
 •	Profissionais da Construção Civil.
 
+• Administrador do Sistema;
+
+</br>
 
 2 – Identificar Casos de Uso:
-
+</br>
 
 Para Clientes pessoa Física ou Jurídica:
+</br>
 
 •	Deverá realizar o cadastro;
 
@@ -63,9 +70,10 @@ Para Clientes pessoa Física ou Jurídica:
 
 •	Os usuários podem acessar os cursos e materiais indicados pela plataforma;
 
-
+</br>
 
 Para Profissionais da Construção Civil:
+</br>
 
 •	Os profissionais devem fornecer todas as suas informações por meio do contato no site;
 
