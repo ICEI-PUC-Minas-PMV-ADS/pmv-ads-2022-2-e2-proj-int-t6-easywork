@@ -28,11 +28,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-![Req Funcional](img/ReqFunc.JPG)
+![RequisitosFuncionais](img/RequisitosFuncionais.png)
 
 ### Requisitos não Funcionais
 
-![Req Nao Funcional](img/ReqNaoFunc.JPG)
+![RequisitosNãoFuncionais](img/RequisitosNãoFuncionais.png)
 
 
 ## Restrições
@@ -76,6 +76,6 @@ Para Profissionais da Construção Civil:
 •	Além da informação própria do profissional é possível visualizar todos os profissionais prestadores de serviço.
 
 
-![DiaCasoUso](img/DiagramaCasoUso.JPG)
+![DiagramaCasoDeUso](img/DiagramaCasoDeUso.png)
 
 
