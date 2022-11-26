@@ -12,7 +12,6 @@ A aplicação tem o objetivo de direcionar profissionais especializados da área
 
 * Ana Carolina Mendes
 * Anderson Marques
-* Bruno Lustosa
 * Nielsen Silva Paulo
 * Giovanna Dantas Almeida da Silva
 

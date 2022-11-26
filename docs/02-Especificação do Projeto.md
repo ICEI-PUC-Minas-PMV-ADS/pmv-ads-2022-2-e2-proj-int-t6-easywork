@@ -28,11 +28,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-![Req Funcional](img/ReqFunc.JPG)
+![RequisitosFuncionais](img/RequisitosFuncionais.png)
 
 ### Requisitos não Funcionais
 
-![Req Nao Funcional](img/ReqNaoFunc.JPG)
+![RequisitosNãoFuncionais](img/RequisitosNãoFuncionais.png)
 
 
 ## Restrições
@@ -44,38 +44,43 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Diagrama de Casos de Uso
 
 1 - Identificar Atores:
+</br>
+
 •	Cliente pode ser pessoa Física ou Jurídica;
+
 •	Profissionais da Construção Civil.
 
+• Administrador do Sistema;
+
+</br>
 
 2 – Identificar Casos de Uso:
-
+</br>
 
 Para Clientes pessoa Física ou Jurídica:
+</br>
 
-•	Por meio da ferramenta do site é possível Filtrar e Buscar os profissionais das regiões da grande São Paulo;
+•	Deverá realizar o cadastro;
 
-•	Podem acessar os cursos e materiais indicados pela plataforma;
+• É necessário login para ter acesso as funcionalidades da página;
 
-•	Visualizar todos os profissionais prestadores de serviço.
+•	No site é possível visualizar todos os profissionais e prestadores de serviço das regiões da grande São Paulo;
 
+•	Por meio das informações na página de Profissionais, os usuários podem entrar em contato com os prestadores de serviços.
+
+•	Os usuários podem acessar os cursos e materiais indicados pela plataforma;
+
+</br>
 
 Para Profissionais da Construção Civil:
-•	Deverá realizar o cadastro para ter acesso ao login e as funcionalidades da página;
+</br>
 
-•	Para o Cadastro é necessário acrescentar todas as informações para uma melhor divulgação do trabalho do profissional;
+•	Os profissionais devem fornecer todas as suas informações por meio do contato no site;
 
-•	Com isso feito, é possível fazer o login da página e caso esqueça a senha é direcionado a uma página para recuperação;
-
-•	Então o profissional terá acesso à página para editar as informações inseridas no cadastro para melhor Divulgar o Serviço;
-
-•	Em seguida, por meio da ferramenta do site é possível Filtrar e Buscar os profissionais das regiões da grande São Paulo;
-
-•	Podem acessar os cursos e materiais indicados pela plataforma;
-
-•	Além da informação própria do profissional é possível visualizar todos os profissionais prestadores de serviço.
+•	A proposta do prestador passa por uma verificação, e após conclusão os seus dados são inseridos no sistema, ficando visível para todos usuários;
 
 
-![DiaCasoUso](img/DiagramaCasoUso.JPG)
+
+![DiagramaCasoDeUso](img/DiagramaCasoDeUso.png)
 
 
