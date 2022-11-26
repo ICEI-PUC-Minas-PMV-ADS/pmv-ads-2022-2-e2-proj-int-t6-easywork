@@ -61,14 +61,23 @@
                             <a class="nav-link" asp-area="" asp-controller="Cursos_e_materiais" asp-action="Index">Cursos e Materiais</a>
                         </li>
                         @*<li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Contato" asp-action="Index">Contato</a>
+                                <a class="nav-link" asp-area="" asp-controller="Contato" asp-action="Index">Contato</a>
+                            </li>
+                        <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-controller="Usuario" asp-action="Index">Usuários</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Usuario" asp-action="Index">Usuários</a>
+                               <a class="nav-link" asp-area="" asp-controller="Login" asp-action="Sair">Sair</a>
                         </li>*@
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Login" asp-action="Sair">Sair</a>
+                        <li>
+                            <a href="#">Perfil ▾</a>
+                            <ul class="dropdown">
+                                <li><a class="nav-link" asp-area="" asp-controller="AlterarDados" asp-action="Index">Alterar Dados</a></li>
+                                <li><a class="nav-link" asp-area="" asp-controller="AlterarSenha" asp-action="Index">Alterar Senha</a></li>
+                                <li><a class="nav-link" asp-area="" asp-controller="Login" asp-action="Sair">Sair</a></li>
+                            </ul>
                         </li>
+
                     </ul>
                     <!-- //FIM LISTA CABEÇALHO -->
                 </div>
@@ -965,9 +974,11 @@
     <!--//Rodapé -->
     <!-- Optional JavaScript; choose one of the two! -->
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="/js/bootstrap.bundle.min.js"
-            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-            crossorigin="anonymous"></script>
+    @*<script src="/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>*@
+
+    <script src="/js/bootstrap.bundle.min.js"></script>
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--

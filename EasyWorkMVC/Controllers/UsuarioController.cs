@@ -1,4 +1,5 @@
-﻿using EasyWorkMVC.Models;
+﻿using EasyWorkMVC.Helper;
+using EasyWorkMVC.Models;
 using EasyWorkMVC.Repositorio;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -51,10 +52,10 @@ namespace EasyWorkMVC.Controllers
             if (ModelState.IsValid)
             {
                 _usuarioRepositorio.Adicionar(usuario); 
-                return RedirectToAction("Index");
+                return RedirectToAction("Index", "Login"); //"Index"
             }
 
-            return View(usuario); 
+            return View(usuario); //usuario
         }
 
         [HttpPost]

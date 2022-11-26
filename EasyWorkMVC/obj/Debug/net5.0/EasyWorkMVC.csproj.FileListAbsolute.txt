@@ -759,3 +759,7 @@ F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Usuari
 F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\_LayoutDeslogado.cshtml.g.cs
 F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Home\Components\Menu\Default.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\Login\RedefinirSenha.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\AlterarSenha\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\AlterarDados\Index.cshtml.g.cs
+F:\EasyWorkFinal\MVC\EasyWorkMVC\EasyWorkMVC\obj\Debug\net5.0\Razor\Views\ApagarUsuario\Index.cshtml.g.cs
