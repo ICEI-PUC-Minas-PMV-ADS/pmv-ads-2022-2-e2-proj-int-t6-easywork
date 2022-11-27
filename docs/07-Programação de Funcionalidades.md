@@ -23,6 +23,7 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |ID    | Descrição do Requisito Não Funcional  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
 |RF-006| O site deverá criptografar a senha dos usuários. | Helper - Criptografia.cs | 
+</br>
 
 # Instruções de acesso
 
