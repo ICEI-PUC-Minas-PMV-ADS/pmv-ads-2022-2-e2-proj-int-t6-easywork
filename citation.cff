@@ -1,0 +1,22 @@
+message: Please cite this software using these metadata.
+title: Easywork
+authors:
+  - family-names: Carolina Silva Mendes
+    given-names: Ana
+  - family-names: Marques
+    given-names: Anderson
+  - family-names: Silva Paulo
+    given-names: Nielsen 
+  - family-names:  Dantas Almeida da Silva
+    given-names: Giovanna
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Jeunon De Alencar
+    given-names: Bernardo 
+keywords:
+  - Localizar Profissionais
+  - Construção
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-easywork
+ version: 1.0.0
+date-released: 2022-11-27
+
